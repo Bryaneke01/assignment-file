@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-shadow: none;
+    list-style: none;
+
+}
+body{
+    background: pink;
+}
+.uselater{
+    color: red;
+    font-size: 2rem;
+    font-weight: 900;
+
+}
+
+
+
+
+
+
